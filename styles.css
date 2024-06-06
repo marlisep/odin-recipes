@@ -1,0 +1,50 @@
+/* styles */
+
+body {    
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: beige;    
+}
+
+.container-one, .container-two {    
+    text-align: center;
+}
+
+.float-container {
+    padding: 5px;
+    
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    height: 320px;
+    padding-bottom: 10px;
+}
+
+.container-three {
+    background-color: #adc171;
+}
+
+.container-four {
+    background-color: #71c1a6;
+}
+
+h1 {
+    font-size: 44px;
+    font-weight: 700;
+}
+
+#home-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 30px;
+    padding: 10px;
+}
+
+figcaption {
+    font-size: 12px;
+}
